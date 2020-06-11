@@ -1,0 +1,449 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+
+@keyframes typed {
+   0%, 0.441086649% {
+     content: "V";
+  }
+   0.442086649%, 0.883173298% {
+     content: "VI";
+  }
+   0.884173298%, 1.3252599469% {
+     content: "VIG";
+  }
+   1.3262599469%, 1.7673465959% {
+     content: "VIGN";
+  }
+   1.7683465959%, 2.2094332449% {
+     content: "VIGNE";
+  }
+   2.2104332449%, 2.6515198939% {
+     content: "VIGNES";
+  }
+   2.6525198939%, 3.0936065429% {
+     content: "VIGNESH";
+  }
+   3.0946065429%, 3.5356931919% {
+     content: "VIGNESH ";
+  }
+   3.5366931919%, 3.9777798408% {
+     content: "VIGNESH R";
+  }
+   3.9787798408%, 4.4198664898% {
+     content: "VIGNESH RA";
+  }
+   4.4208664898%, 4.8619531388% {
+     content: "VIGNESH RAV";
+  }
+   4.8629531388%, 5.3040397878% {
+     content: "VIGNESH RAVI";
+  }
+   5.3050397878%, 5.7461264368% {
+     content: "VIGNESH RAVIN";
+  }
+   5.7471264368%, 6.1882130858% {
+     content: "VIGNESH RAVIND";
+  }
+   6.1892130858%, 6.6302997347% {
+     content: "VIGNESH RAVINDR";
+  }
+   6.6312997347%, 7.0723863837% {
+     content: "VIGNESH RAVINDRA";
+  }
+   7.0733863837%, 16.7098753316% {
+     content: "VIGNESH RAVINDRAN";
+  }
+   16.7108753316%, 17.0635446508% {
+     content: "VIGNESH RAVINDRA";
+  }
+   17.0645446508%, 17.4172139699% {
+     content: "VIGNESH RAVINDR";
+  }
+   17.4182139699%, 17.7708832891% {
+     content: "VIGNESH RAVIND";
+  }
+   17.7718832891%, 18.1245526083% {
+     content: "VIGNESH RAVIN";
+  }
+   18.1255526083%, 18.4782219275% {
+     content: "VIGNESH RAVI";
+  }
+   18.4792219275%, 18.8318912467% {
+     content: "VIGNESH RAV";
+  }
+   18.8328912467%, 19.1855605659% {
+     content: "VIGNESH RA";
+  }
+   19.1865605659%, 19.5392298851% {
+     content: "VIGNESH R";
+  }
+   19.5402298851%, 19.8928992042% {
+     content: "VIGNESH ";
+  }
+   19.8938992042%, 20.2465685234% {
+     content: "VIGNESH";
+  }
+   20.2475685234%, 20.6002378426% {
+     content: "VIGNES";
+  }
+   20.6012378426%, 20.9539071618% {
+     content: "VIGNE";
+  }
+   20.9549071618%, 21.307576481% {
+     content: "VIGN";
+  }
+   21.308576481%, 21.6612458002% {
+     content: "VIG";
+  }
+   21.6622458002%, 22.0149151194% {
+     content: "VI";
+  }
+   22.0159151194%, 22.3685844386% {
+     content: "V";
+  }
+   22.3695844386%, 26.7894509284% {
+     content: "";
+  }
+   26.7904509284%, 27.2315375774% {
+     content: "D";
+  }
+   27.2325375774%, 27.6736242263% {
+     content: "De";
+  }
+   27.6746242263%, 28.1157108753% {
+     content: "Dee";
+  }
+   28.1167108753%, 28.5577975243% {
+     content: "Deep";
+  }
+   28.5587975243%, 28.9998841733% {
+     content: "Deep ";
+  }
+   29.0008841733%, 29.4419708223% {
+     content: "Deep L";
+  }
+   29.4429708223%, 29.8840574713% {
+     content: "Deep Le";
+  }
+   29.8850574713%, 30.3261441202% {
+     content: "Deep Lea";
+  }
+   30.3271441202%, 30.7682307692% {
+     content: "Deep Lear";
+  }
+   30.7692307692%, 31.2103174182% {
+     content: "Deep Learn";
+  }
+   31.2113174182%, 31.6524040672% {
+     content: "Deep Learni";
+  }
+   31.6534040672%, 32.0944907162% {
+     content: "Deep Learnin";
+  }
+   32.0954907162%, 32.5365773652% {
+     content: "Deep Learning";
+  }
+   32.5375773652%, 32.9786640141% {
+     content: "Deep Learning ";
+  }
+   32.9796640141%, 33.4207506631% {
+     content: "Deep Learning E";
+  }
+   33.4217506631%, 33.8628373121% {
+     content: "Deep Learning En";
+  }
+   33.8638373121%, 34.3049239611% {
+     content: "Deep Learning Ent";
+  }
+   34.3059239611%, 34.7470106101% {
+     content: "Deep Learning Enth";
+  }
+   34.7480106101%, 35.1890972591% {
+     content: "Deep Learning Enthu";
+  }
+   35.1900972591%, 35.631183908% {
+     content: "Deep Learning Enthus";
+  }
+   35.632183908%, 36.073270557% {
+     content: "Deep Learning Enthusi";
+  }
+   36.074270557%, 36.515357206% {
+     content: "Deep Learning Enthusia";
+  }
+   36.516357206%, 36.957443855% {
+     content: "Deep Learning Enthusias";
+  }
+   36.958443855%, 46.5949328028% {
+     content: "Deep Learning Enthusiast";
+  }
+   46.5959328028%, 46.948602122% {
+     content: "Deep Learning Enthusias";
+  }
+   46.949602122%, 47.3022714412% {
+     content: "Deep Learning Enthusia";
+  }
+   47.3032714412%, 47.6559407604% {
+     content: "Deep Learning Enthusi";
+  }
+   47.6569407604%, 48.0096100796% {
+     content: "Deep Learning Enthus";
+  }
+   48.0106100796%, 48.3632793988% {
+     content: "Deep Learning Enthu";
+  }
+   48.3642793988%, 48.7169487179% {
+     content: "Deep Learning Enth";
+  }
+   48.7179487179%, 49.0706180371% {
+     content: "Deep Learning Ent";
+  }
+   49.0716180371%, 49.4242873563% {
+     content: "Deep Learning En";
+  }
+   49.4252873563%, 49.7779566755% {
+     content: "Deep Learning E";
+  }
+   49.7789566755%, 50.1316259947% {
+     content: "Deep Learning ";
+  }
+   50.1326259947%, 50.4852953139% {
+     content: "Deep Learning";
+  }
+   50.4862953139%, 50.8389646331% {
+     content: "Deep Learnin";
+  }
+   50.8399646331%, 51.1926339523% {
+     content: "Deep Learni";
+  }
+   51.1936339523%, 51.5463032714% {
+     content: "Deep Learn";
+  }
+   51.5473032714%, 51.8999725906% {
+     content: "Deep Lear";
+  }
+   51.9009725906%, 52.2536419098% {
+     content: "Deep Lea";
+  }
+   52.2546419098%, 52.607311229% {
+     content: "Deep Le";
+  }
+   52.608311229%, 52.9609805482% {
+     content: "Deep L";
+  }
+   52.9619805482%, 53.3146498674% {
+     content: "Deep ";
+  }
+   53.3156498674%, 53.6683191866% {
+     content: "Deep";
+  }
+   53.6693191866%, 54.0219885057% {
+     content: "Dee";
+  }
+   54.0229885057%, 54.3756578249% {
+     content: "De";
+  }
+   54.3766578249%, 54.7293271441% {
+     content: "D";
+  }
+   54.7303271441%, 59.150193634% {
+     content: "";
+  }
+   59.151193634%, 59.5922802829% {
+     content: "L";
+  }
+   59.5932802829%, 60.0343669319% {
+     content: "Le";
+  }
+   60.0353669319%, 60.4764535809% {
+     content: "Lea";
+  }
+   60.4774535809%, 60.9185402299% {
+     content: "Lear";
+  }
+   60.9195402299%, 61.3606268789% {
+     content: "Learn";
+  }
+   61.3616268789%, 61.8027135279% {
+     content: "Learne";
+  }
+   61.8037135279%, 62.2448001768% {
+     content: "Learner";
+  }
+   62.2458001768%, 71.8822891247% {
+     content: "Learner!";
+  }
+   71.8832891247%, 72.2359584439% {
+     content: "Learner";
+  }
+   72.2369584439%, 72.589627763% {
+     content: "Learne";
+  }
+   72.590627763%, 72.9432970822% {
+     content: "Learn";
+  }
+   72.9442970822%, 73.2969664014% {
+     content: "Lear";
+  }
+   73.2979664014%, 73.6506357206% {
+     content: "Lea";
+  }
+   73.6516357206%, 74.0043050398% {
+     content: "Le";
+  }
+   74.0053050398%, 74.357974359% {
+     content: "L";
+  }
+   74.358974359%, 78.7788408488% {
+     content: "";
+  }
+   78.7798408488%, 79.2209274978% {
+     content: "P";
+  }
+   79.2219274978%, 79.6630141468% {
+     content: "Pr";
+  }
+   79.6640141468%, 80.1051007958% {
+     content: "Pro";
+  }
+   80.1061007958%, 80.5471874447% {
+     content: "Prog";
+  }
+   80.5481874447%, 80.9892740937% {
+     content: "Progr";
+  }
+   80.9902740937%, 81.4313607427% {
+     content: "Progra";
+  }
+   81.4323607427%, 81.8734473917% {
+     content: "Program";
+  }
+   81.8744473917%, 82.3155340407% {
+     content: "Programm";
+  }
+   82.3165340407%, 82.7576206897% {
+     content: "Programme";
+  }
+   82.7586206897%, 92.3951096375% {
+     content: "Programmer";
+  }
+   92.3961096375%, 92.7487789567% {
+     content: "Programme";
+  }
+   92.7497789567%, 93.1024482759% {
+     content: "Programm";
+  }
+   93.1034482759%, 93.456117595% {
+     content: "Program";
+  }
+   93.457117595%, 93.8097869142% {
+     content: "Progra";
+  }
+   93.8107869142%, 94.1634562334% {
+     content: "Progr";
+  }
+   94.1644562334%, 94.5171255526% {
+     content: "Prog";
+  }
+   94.5181255526%, 94.8707948718% {
+     content: "Pro";
+  }
+   94.8717948718%, 95.224464191% {
+     content: "Pr";
+  }
+   95.225464191%, 95.5781335102% {
+     content: "P";
+  }
+   95.5791335102%, 100% {
+     content: "";
+  }
+}
+ @keyframes beam-blink {
+   75% {
+     border-color: transparent;
+  }
+}
+ * {
+   backface-visibility: hidden;
+}
+ html, body {
+   height: 100%;
+   background-color: #000;
+}
+ .type-wrap {
+   height: 50vh;
+   display: flex;
+   align-items: center;
+   background-color: #000;
+   background-image: radial-gradient(rgba(255, 255, 255, 0.125), rgba(255, 255, 255, 0)), linear-gradient(to bottom, #000, #000 2px, #111 3px);
+   background-repeat: repeat-y;
+   background-position: center center;
+   background-size: cover, 100% 3px;
+   font-size: calc(10px + 2vw);
+   font-family: 'VT323', monospace, sans-serif;
+   color: #3f3;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+ .type-wrap::after {
+   content: "";
+   position: relative;
+   top: -13px;
+   display: inline-block;
+   padding-right: 3px;
+   padding-right: calc(3px + 0.1vw);
+   border-right: 10px solid rgba(51, 255, 51, 0.75);
+   border-right: calc(1.1vw + 4px) solid rgba(51, 255, 51, 0.75);
+   text-shadow: 0 0 5px rgba(51, 255, 51, 0.75);
+   white-space: nowrap;
+   animation: typed 22.62s linear 1s infinite, beam-blink 1s infinite;
+}
+ @media (max-width: 575px) {
+   .type-wrap::after {
+     top: -33px;
+  }
+}
+ .tyoe-wrap::before {
+   content: "";
+   display: block;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   padding: 3px 0;
+   background: #00f;
+   color: #fff;
+   text-align: center;
+   font-size: 18px;
+   letter-spacing: 0.7px;
+   white-space: pre-wrap;
+}
+ @media (max-width: 575px) {
+   .type-wrap::before {
+     content: "";
+  }
+}
+ 
+.details {
+  font-family: 'Noto Sans JP', sans-serif;
+  text-decoration: underline;
+  margin-top: 25px;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+.options {
+  display: inline;
+  margin-top: 50px;
+  justify-content: center;
+  padding-left: 14%;
+}
+.options i {
+  margin-left: 10%;
+}
+
+.options a {
+  color: white;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 25px;
+  text-decoration: none;
+}
